@@ -1,0 +1,2 @@
+
+See Documentation / devicetree / bindings / crypto / fsl - sec4.txt for details.

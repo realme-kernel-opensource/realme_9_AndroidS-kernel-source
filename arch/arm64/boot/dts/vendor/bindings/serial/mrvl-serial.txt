@@ -1,0 +1,5 @@
+PXA UART controller
+
+Required properties:
+- compatible :
+should be "mrvl,mmp-uart" or "mrvl,pxa-uart".
